@@ -1,1 +1,2 @@
-# Search-Engine-Project
+# Search-Engine-Project 🧐
+This program contains different files of urls of different web pages and the text conained within those files. What the search engine will do is it will parse through those files to check unique words and pages being processed. Then, based of that processing, depending on the user input, it will return the urls that is generated within the file. This project uses sets, maps, and file input/output streams, and data processing */
